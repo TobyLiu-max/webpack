@@ -1,0 +1,9 @@
+/* @font-face {
+  font-family: 'my-font-family';
+  src: url('./img//AaWanSong-2.ttf');
+} */
+
+.search {
+  color: red;
+  /* font-family: 'my-font-family'; */
+}
